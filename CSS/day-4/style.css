@@ -1,0 +1,41 @@
+/* * {
+    background-color: aquamarine;
+} */
+
+/* type selector ---> body , h1 , p , li , a , ol , ul , h2 - h6 , nav , section */
+
+/* h1{
+    color: rgb(154, 168, 26);
+} */
+
+/* class */
+
+/* .desc{
+    color: chocolate;
+} */
+
+/* id */
+/* 
+p{
+    color: cadetblue;
+} */
+
+/* #para_1{
+    color: blueviolet;
+} */
+
+
+
+.container{
+    border: solid;
+    border-width: 2px;
+    border-color: blue;
+    border-radius: 20px;
+    /* padding: top right bottom left;  */
+    /* padding: 12px 10px 0px 12px ;
+    margin: 30px 20px 10px 20px; */
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
