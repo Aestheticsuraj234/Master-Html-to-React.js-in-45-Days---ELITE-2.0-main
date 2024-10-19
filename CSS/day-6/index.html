@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sizing and Positions</title>
+</head>
+<style>
+
+    *{
+        margin: 0;
+        padding: 0;
+        font-size: 20px;
+     
+      
+    }
+
+    .parent{
+        height: 50%;
+        width: 25%;
+        border: 3px solid peachpuff;
+        border-radius: 12px;
+    }
+
+    .child{
+        height: 50%;
+        width: 50%;
+        border: 3px solid rgb(40, 80, 227);
+        border-radius: 12px;
+    }
+
+
+    /* vw and vh*/
+  /*  .container-vw{
+        height: 100vh;
+        width: 100vw;
+        border: 12px solid red;
+    }
+        */
+   
+
+    /*Pixels*/
+    .pixel-container{
+        height: 900px;
+        width:100px;
+        border:2px solid red;
+    }
+
+    .container-em{
+       /* font-size: 2px;
+        height: 10em; /*1em = 16px , 10 * 16 = 160px , 10 * 2 = 1000px*/
+       /* width: 10em; /*1em = 16px , 10 * 16 = 160px*/
+      border:2px solid red;
+      height: 10rem; 
+     width: 10rem;
+
+
+
+    }
+
+    
+</style>
+<body>
+    <!-- <div class="parent">
+        <div class="child">
+            Hello Child
+        </div>
+    </div> -->
+
+
+    <!-- <div class="container-vw">
+            Hello
+    </div> -->
+
+
+    <!-- pixel -->
+<!-- 
+    <div class="pixel-container">
+        Hello World this is pixel
+    </div> -->
+
+
+    <div class="container-em">
+        <div class="child-em">
+            Hello
+        </div>
+    </div>
+
+</body>
+</html>
