@@ -1,0 +1,36 @@
+.flex-container{
+    border: 3px solid black;
+    height: 50vh;
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-between; main-axis(flex-direction par depend hota hai */
+    /* align-items: flex-start; cross-axis */
+
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+
+    /* flex-wrap: wrap; */
+   
+
+}
+
+
+.flex-item{
+    height: 150px;
+    width: 150px;
+    border: 3px solid red;
+    margin: 3px;
+}
+
+/* 
+.item-1{
+    flex-grow: 1;
+} */
+
+.item-2{
+    flex-shrink: 0;
+    /* flex-grow: 2; */
+    align-self:flex-end;
+
+}

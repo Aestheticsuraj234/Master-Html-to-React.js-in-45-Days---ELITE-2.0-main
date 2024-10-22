@@ -15,10 +15,10 @@
 ### Flex Container Properties
 These properties apply to the flex container (the parent of flex items).
 
-#### 1. `display: flex;`
+#### 1. `display: flex;✅`
 - Turns a container into a flexbox container, and its child elements (flex items) can now use flexbox properties.
 
-#### 2. `flex-direction`
+#### 2. `flex-direction✅`
 - Specifies the direction of the main axis (row or column).
 
 | Value            | Description                  |
