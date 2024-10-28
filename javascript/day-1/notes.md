@@ -1,6 +1,4 @@
-Sure! Here’s a detailed, easy-to-understand breakdown of JavaScript basics, including its history, use cases, variables, and data types. I’ve included coding examples to illustrate each concept, as well.
 
----
 
 ### **What is JavaScript?**
 
@@ -159,7 +157,3 @@ console.log(typeof sayHello); // Output: function
 #### Key Points:
 - **Primitive** data types are **immutable** (cannot be changed).
 - **Non-Primitive** data types like objects and arrays are **mutable** (can be modified), and they are stored by reference.
-
----
-
-These notes should give you a foundational understanding of JavaScript’s basic concepts, including its history, how variables are used, and the different data types. Let me know if you’d like to go deeper into any specific topic!
