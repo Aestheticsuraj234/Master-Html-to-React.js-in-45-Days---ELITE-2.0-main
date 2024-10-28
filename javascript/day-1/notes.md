@@ -1,5 +1,3 @@
-
-
 ### **What is JavaScript?**
 
 JavaScript is a high-level, versatile programming language that’s primarily used for adding interactivity to websites. Unlike HTML and CSS, which are mainly for structure and styling, JavaScript allows you to create dynamic and interactive experiences in the browser.
