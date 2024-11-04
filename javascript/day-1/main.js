@@ -83,3 +83,42 @@ let emptyValue = null;
 
 let undefinedValue;
 console.log(undefinedValue)
+
+
+// non-primitive data-type ( made with the help of the primitive datatypes(string , number , null , boolean , undefined , symbol ))
+
+// 1. object ( key-values , related values)
+
+let person = {
+    name: "Alice",
+    age: 25,
+    isStudent: false
+  };
+
+  console.log(person.name)
+
+// 2. array ( indexing)
+
+let fruits = ["🍅" , "🍇" , "🍎 "]
+
+console.log(fruits[3])
+
+// 3. function ( ignore) 
+
+// defining the function
+function Greeting(){
+    console.log('Hello')
+    console.log('world')
+    console.log('amazing to see you')
+}
+
+
+Greeting()
+Greeting()
+Greeting()
+Greeting()
+Greeting()
+Greeting()
+Greeting()
+Greeting()
+Greeting()
