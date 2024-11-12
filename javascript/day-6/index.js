@@ -1,6 +1,6 @@
 // Javascript loops
 
-// *#### 1. **For Loop**
+// *#### 1. **For Loop** nested for loop
 // The `for` loop is used to repeat a block of code a known number of times.
 
 // 1 to 100 numbers print karwde
