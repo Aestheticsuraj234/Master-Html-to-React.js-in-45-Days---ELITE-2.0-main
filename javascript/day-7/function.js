@@ -126,8 +126,31 @@
 
 // anonymous function
 
-let sayHello = function(){
-    console.log("Hello")
-}
+// let sayHello = function(){
+//     console.log("Hello")
+// }
 
-sayHello()
+// sayHello()
+
+
+// Arrow Function
+
+// // const Add = (number1 , number2)=>{
+// //     return number1 + number2
+// // }
+// // const Add = (number1 , number2)=>console.log(number1 + number1)
+// // const add = ()=>()
+
+// console.log(Add(12 , 123)) --assignment
+
+
+
+// iife
+// IMMEDIATELY INVOKED Function EXPRESSION - learn about uses 
+
+
+(
+    function(){
+        console.log("Hello")
+    }
+)()
