@@ -205,4 +205,3 @@ Here's an example that demonstrates the use of these properties:
     </script>
   </body>
 </html>
-hello world this is surj
