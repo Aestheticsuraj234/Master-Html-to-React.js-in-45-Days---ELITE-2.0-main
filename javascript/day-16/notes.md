@@ -1,4 +1,4 @@
-### 📚 JavaScript Concepts: Callback Hell, Async/Await, Arrow Functions, Closure, and Rest/Spread Operators
+### 📚 JavaScript Concepts: Callback Hell, fetch , Async/Await, Arrow Functions, Closure, and Rest/Spread Operators
 
 #### 1️⃣ **Callback Hell** 😵‍💫
 Callback hell occurs when multiple nested callbacks are used, making the code difficult to read and maintain.
