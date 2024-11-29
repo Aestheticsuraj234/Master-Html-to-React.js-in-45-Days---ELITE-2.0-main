@@ -64,3 +64,7 @@ FetchData();
 
 
 // child ---> parent ( properties usko access krskta hai ) lekin jo parent hai vo apne child ke properties ko access nhi krskta
+
+
+
+// 
